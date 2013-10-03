@@ -3,12 +3,18 @@
   "description": "A streaming CLI for opening all URLs piped to it in a browser",
   "author": "Eirik Albrigtsen <analsandblaster@gmail.com>",
   "preferGlobal": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "clux/tabexplode"
   },
-  "keywords": ["browser", "open", "streaming", "links", "unix"],
+  "keywords": [
+    "browser",
+    "open",
+    "streaming",
+    "links",
+    "unix"
+  ],
   "bin": "tabexplode.js",
   "dependencies": {
     "splitter": "~0.1.2",
