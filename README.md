@@ -16,7 +16,7 @@ $ curl -sS "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=pug&
 $ curl -sS "https://ajax.googleapis.com/ajax/services/search/images?v=1.0&as_filetype=gif&safe=off&q=gameofthrones%20sausage"
   | json responseData.results
   | json -a unescapedUrl
-  | tabexplodeh
+  | tabexplode
 ```
 
 Note that these examples requires a globally installed [jsontool](https://npmjs.org/package/jsontool).
