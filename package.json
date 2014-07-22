@@ -16,6 +16,9 @@
     "links",
     "unix"
   ],
+  "scripts": {
+    "test": "cat test.txt | ./tabexplode.js"
+  },
   "bin": "tabexplode.js",
   "dependencies": {
     "splitter": "^0.1.2",
