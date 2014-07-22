@@ -4,6 +4,7 @@
   "author": "Eirik Albrigtsen <analsandblaster@gmail.com>",
   "preferGlobal": true,
   "version": "0.0.1",
+  "stability": "stable",
   "repository": {
     "type": "git",
     "url": "clux/tabexplode"
@@ -17,8 +18,8 @@
   ],
   "bin": "tabexplode.js",
   "dependencies": {
-    "splitter": "~0.1.2",
-    "browser-launcher": "~0.3.4"
+    "splitter": "^0.1.2",
+    "browser-launcher": "^0.3.4"
   },
   "bugs": {
     "url": "http://github.com/clux/tabexplode/issues"

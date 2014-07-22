@@ -1,6 +1,7 @@
 # tabexplode
-[![Dependency Status](https://david-dm.org/clux/tabexplode.png)](https://david-dm.org/clux/tabexplode)
-[![experimental](http://hughsk.github.io/stability-badges/dist/experimental.svg)](http://nodejs.org/api/documentation.html#documentation_stability_index)
+[![npm status](http://img.shields.io/npm/v/tabexplode.svg)](https://www.npmjs.org/package/tabexplode)
+[![dependency status](https://david-dm.org/clux/tabexplode.svg)](https://david-dm.org/clux/tabexplode)
+[![stable](http://img.shields.io/badge/stability-stable-74C614.svg)](http://nodejs.org/api/documentation.html#documentation_stability_index)
 
 Simple streaming CLI to pipe a list of URLs to and they will open in your browser
 
