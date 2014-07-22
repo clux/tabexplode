@@ -3,7 +3,7 @@
   "description": "A streaming CLI for opening all URLs piped to it in a browser",
   "author": "Eirik Albrigtsen <analsandblaster@gmail.com>",
   "preferGlobal": true,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "stability": "stable",
   "repository": {
     "type": "git",
