@@ -1,7 +1,7 @@
 {
   "name": "tabexplode",
   "description": "A streaming CLI for opening all URLs piped to it in a browser",
-  "author": "Eirik Albrigtsen <analsandblaster@gmail.com>",
+  "author": "Eirik Albrigtsen <sszynrae@gmail.com>",
   "preferGlobal": true,
   "version": "1.0.1",
   "stability": "stable",
